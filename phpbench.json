@@ -1,0 +1,10 @@
+{
+    "runner.iterations": 10,
+    "runner.revs": 1,
+    "report.outputs": {
+        "csv": {
+            "output": "results/break-even.csv",
+            "type": "csv"
+        }
+    }
+}
